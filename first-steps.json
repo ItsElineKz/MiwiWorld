@@ -44,9 +44,9 @@
       {
         "type": "paragraph",
         "body": [
-          "Este proyecto recien va comenzando por lo que de momento solo contamos con un modo de juego",
+          "Este proyecto recién va comenzando por lo que de momento solo contamos con un modo de juego",
           "&b Survival ",
-          "apartir de la versión 1.21.1 en adelante."
+          "a partir de la versión 1.21.1 en adelante."
         ]
       },
       {
@@ -55,7 +55,7 @@
       {
         "type": "paragraph",
         "body": [
-          "Esperamos que este proyecto tenga tu apoyo, para poder seguir creciendo y traer nuevos modos de juegos, así como caracteristicas de mejor calidad."
+          "Esperamos que este proyecto tenga tu apoyo, para poder seguir creciendo y traer nuevos modos de juegos, así como características de mejor calidad."
         ]
       }
     ],
@@ -73,7 +73,7 @@
       {
         "type": "paragraph",
         "body": [
-          "Estas son las principales modalidades con las que cuenta el servidor:"
+          "Estas son las principales modalidades con las que cuenta la network:"
         ]
       },
       {
@@ -82,7 +82,7 @@
       {
         "type": "table",
         "headers": [
-          "Caracteristica",
+          "Característica",
           "Descripción"
         ],
         "body": [
@@ -95,7 +95,7 @@
             {
               "type": "text",
               "body": [
-                "Este es un survival para pasar el rato y conocer gente nueva. Cuenta con varias caracteristicas que te interesara conocer como:",
+                "Este es un survival para pasar el rato y conocer gente nueva. Cuenta con varias características que te interesará conocer como:",
                 "&b Bloques de Protección",
                 ",",
                 "&b Economía",
@@ -122,7 +122,7 @@
       {
         "type": "paragraph",
         "body": [
-          "Para estar al tanto de los cambios y actualizaciones del servidor te recomendamos unirte a nuestra comunidad. En esta pagina estaran todos los cambios agregados al servidor, así como comandos y/o funcionalidades agregadas."
+          "Para estar al tanto de los cambios y actualizaciones del servidor te recomendamos unirte a nuestra comunidad. En esta página estarán todos los cambios agregados al servidor, así como comandos y/o funcionalidades agregadas."
         ]
       },
       {
@@ -133,7 +133,7 @@
         "body": [
           "Unete a nuestra comunidad en",
           "&b Discord",
-          ", el lugar donde nacio este proyecto."
+          ", el lugar donde nació este proyecto."
         ]
       },
       {
@@ -142,19 +142,19 @@
           {
             "type": "block_link",
             "title": "Servidor de Discord",
-            "text": "Unete a Miwi y se parte de esta comunidad. Donde Miwi no solo es un servidor para jugar minecraft, puedes conocer gente nueva.",
+            "text": "Unete a Miwi y sé parte de esta comunidad. Donde Miwi no solo es un servidor para jugar minecraft, puedes conocer gente nueva.",
             "to": ""
           },
           {
             "type": "block_link",
             "title": "Novedades",
-            "text": "Dale un vistaso a la pagina donde estaran todas las novedades del servidor.",
+            "text": "Dale un vistazo a la página donde estarán todas las novedades del servidor.",
             "to": "/new"
           },
           {
             "type": "block_link",
             "title": "Tienda del Servidor",
-            "text": "Apoya este proyecto comprando rangos, y demas elementos para tu modalidad favorita.",
+            "text": "Apoya este proyecto comprando rangos, y demás elementos para tu modalidad favorita.",
             "to": "/store"
           }
         ]
