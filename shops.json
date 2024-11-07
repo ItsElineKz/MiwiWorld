@@ -1,0 +1,262 @@
+[
+  {
+    "id": "shop-system",
+    "title": {
+      "text": "Sistema de Tiendas"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "&bMiwi World ",
+          "permite a los jugadores crear tiendas personales utilizando cofres. Con este sistema, los jugadores pueden vender sus ítems a otros o comprar de las tiendas de otros jugadores, ",
+          "creando una economía activa entre usuarios. Cada tienda muestra el nombre del ítem, el precio, y la cantidad disponible, lo que facilita las transacciones entre jugadores."
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "how-to-create",
+    "title": {
+      "text": "Cómo Crear una Tienda"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Para crear una tienda, sigue estos pasos:"
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "1. Coloca un cofre donde quieras establecer tu tienda."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "2. Haz clic derecho en el cofre con el ítem que quieres vender. Esto configurará la tienda para vender ese ítem."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "3. Especifica el precio en el chat cuando el plugin lo solicite. Este será el precio por cada unidad del ítem.\n"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "4. ¡Listo! Ahora otros jugadores pueden ver tu tienda y comprar ítems de ella. El cartel de la tienda se crea automáticamente, mostrando el ítem, su precio y cantidad disponible."
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "shop-types",
+    "title": {
+      "text": "Tipos de Tiendas"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Existen dos tipos de tiendas, las cuales son:"
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "&bTiendas de Venta",
+          ": El propietario vende ítems a otros jugadores. Cuando alguien compra en la tienda, el ítem se toma del inventario del cofre."
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "&bTiendas de Compra",
+          ": El propietario compra ítems de otros jugadores. Los jugadores que venden el ítem reciben el dinero, y los ítems se almacenan en el cofre de la tienda."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shop-commands",
+    "title": {
+      "text": "Comandos de Tiendas"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Estos son los comandos básicos que los jugadores pueden utilizar para gestionar sus tiendas. Cada comando incluye una breve descripción de su función."
+        ]
+      },
+      {
+        "type": "table",
+        "body": [
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/qs create <precio>"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Crea una tienda para vender el ítem que tienes en la mano al precio indicado."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/qs buy"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Convierte la tienda en una tienda de compra, donde otros jugadores pueden vender el ítem."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/qs remove"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Elimina la tienda y devuelve el contenido del cofre al propietario."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/qs price <precio>"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Cambia el precio del ítem en la tienda."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/qs refill <cantidad>"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Agrega más ítems al inventario de la tienda."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/qs empty"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Vacía el inventario de la tienda y devuelve los ítems al propietario."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "shop-tips",
+    "title": {
+      "text": "Consejos para Gestionar Tiendas"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "&bMantén tus tiendas bien abastecidas",
+          ": Los jugadores siempre buscan tiendas que tengan suficientes ítems en stock, especialmente si estás vendiendo ítems valiosos o de gran demanda."
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "&bAjusta precios según la demanda",
+          ": Observa los precios en el mercado y ajusta el tuyo para mantener la competitividad."
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "&bUtiliza tiendas de compra y venta estratégicamente",
+          ": Las tiendas de compra son útiles para reunir ítems valiosos de otros jugadores, mientras que las de venta permiten ganar dinero rápidamente."
+        ]
+      }
+    ],
+    "separator": true
+  }
+]
