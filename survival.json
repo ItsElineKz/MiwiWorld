@@ -1,0 +1,112 @@
+[
+  {
+    "id": "survival-home",
+    "title": {
+      "text": "Survival"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Bienvenido a la modalidad",
+          "&b Survival ",
+          "de Miwi World.",
+          "Aquí podrás encontrar los temas detallados relacionados con esta modalidad."
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "image",
+        "url": "/images/titles/Miwi Survival.png",
+        "alt": "Miwi Survival Title"
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Si eres nuevo en este tipo de modalidades en las networks y/o servidores, te recomendamos darte una vuelta por la guía de la modalidad para entenderla sin problemas. ",
+          "De igual forma si te quedas con dudas y/o te surgen dudas a futuro siempre podrás preguntar en el canal",
+          "&b <chat-mc> ",
+          "del servidor de",
+          "&b Discord ",
+          "en el cual podrás preguntar a los demás jugadores de la modalidad."
+        ]
+      },
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Así mismo dentro del chat de",
+          "&b Minecraft ",
+          "podrás acudir a los miembros con el rol",
+          "&b <Helper> ",
+          "los cuales podrán resolver tus dudas."
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "survival-entries",
+    "title": "",
+    "body": [
+      {
+        "type": "grid",
+        "body": [
+          {
+            "type": "block_link",
+            "title": "Economía",
+            "text": "Explora la economía del survival, aprende a ver tu balance y pagar a otros jugadores.",
+            "to": "/guide/economy"
+          },
+          {
+            "type": "block_link",
+            "title": "Protecciones",
+            "text": "Aprende a proteger tus bases y áreas más importantes para evitar el grifeo de estas mismas.",
+            "to": "/guide/protections"
+          },
+          {
+            "type": "block_link",
+            "title": "Tiendas",
+            "text": "Aprende a crear tus propias tiendas para poder vender tus items a demás jugadores.",
+            "to": "/guide/shops"
+          },
+          {
+            "type": "block_link",
+            "title": "Toma asiento",
+            "text": "¿Realmente hace falta explicarlo?",
+            "to": "/guide/sit"
+          },
+          {
+            "type": "block_link",
+            "title": "Mascotas",
+            "text": "Aprende como comprar mascotas, cambiar entre ellas y tradearlas a otros jugadores.",
+            "to": "/guide/pets"
+          },
+          {
+            "type": "block_link",
+            "title": "Trabajos",
+            "text": "Aprende sobre los trabajos disponibles, y todo lo relacionado con ello.",
+            "to": "/guide/jobs"
+          },
+          {
+            "type": "block_link",
+            "title": "Otras areas",
+            "text": "Todo lo relacionado a otras áreas que no tienen una categoría especifica.",
+            "to": "/guide/others"
+          }
+        ]
+      }
+    ],
+    "separator": true
+  }
+]
