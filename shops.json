@@ -118,6 +118,10 @@
       },
       {
         "type": "table",
+        "headers": [
+          "Comando",
+          "Descripción"
+        ]
         "body": [
           [
             {
