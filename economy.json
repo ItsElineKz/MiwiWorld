@@ -1,0 +1,164 @@
+[
+  {
+    "id": "miwi-world-economy",
+    "title": {
+      "text": "Economía en Miwi World"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "La economía de",
+          "&b Miwi World ",
+          "está gestionada a través de los plugins",
+          "&b Vault ",
+          "y",
+          "&b EssentialsX",
+          ", que permiten realizar transacciones, administrar dinero y crear una experiencia económica única en el servidor. ",
+          "Con estos plugins, los jugadores pueden ganar y gastar dinero dentro del juego, lo cual añade una capa extra de interacción y competitividad."
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "what-is-vault",
+    "title": {
+      "text": "¿Qué es Vault?"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Vault es un plugin que actúa como el “",
+          "&b núcleo",
+          "” del sistema económico del servidor. ",
+          "Permite a otros plugins (",
+          "&bcomo EssentialsX",
+          ") conectar y manejar dinero, permisos y sistemas de chat de forma eficiente. ",
+          "En términos simples, Vault es el que permite que EssentialsX registre y administre los balances de dinero de cada jugador en el servidor."
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "what-is-essentialsx",
+    "title": {
+      "text": "¿Qué es EssentialsX?"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "EssentialsX es un plugin multifuncional que provee una variedad de comandos y características, incluyendo el sistema de economía. ",
+          "Con EssentialsX, los jugadores pueden ganar dinero realizando actividades, comerciar con otros jugadores y gastarlo en tiendas, rangos, o ítems especiales. ",
+          "En",
+          "&b Miwi World",
+          ", EssentialsX maneja el dinero que ganan los jugadores y les permite usarlo de muchas maneras."
+        ]
+      }
+    ],
+    "separator": true
+  },
+  {
+    "id": "economy-commands",
+    "title": {
+      "text": "Comandos de Economía"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Los siguientes comandos de EssentialsX son los que están disponibles para administrar tu economía personal en Miwi World. ",
+          "A continuación, encontrarás una lista de comandos esenciales junto a una breve descripción:"
+        ]
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Comando",
+          "Descripción"
+        ],
+        "body": [
+          {
+            "type": "bg_text",
+            "bg_color": "primary-2",
+            "text_color": "secondary",
+            "body": [
+              "&c/bal",
+              " o ",
+              "&c/balance"
+            ]
+          },
+          {
+            "type": "text",
+            "body": [
+              "Muestra el saldo actual del jugador."
+            ]
+          },
+          {
+            "type": "bg_text",
+            "bg_color": "primary-2",
+            "text_color": "secondary",
+            "body": [
+              "&c/baltop"
+            ]
+          },
+          {
+            "type": "text",
+            "body": [
+              "Muestra una lista con los jugadores que tienen más dinero en el servidor."
+            ]
+          },
+          {
+            "type": "bg_text",
+            "bg_color": "primary-2",
+            "text_color": "secondary",
+            "body": [
+              "&c/pay <jugador> <cantidad>"
+            ]
+          },
+          {
+            "type": "text",
+            "body": [
+              "Permite transferir dinero a otro jugador."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "how-to-earn",
+    "title": {
+      "text": "Cómo Ganar y Gastar Dinero"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "En",
+          "&b Miwi World",
+          ", los jugadores pueden ganar dinero de varias formas, como completando misiones, vendiendo ítems en tiendas de jugadores, o trabajando en los empleos disponibles en el servidor. ",
+          "Igualmente, hay múltiples formas de gastar dinero, ya sea comprando items en las tiendas o comerciando con otros jugadores.\n\n"
+        ]
+      }
+    ]
+  }
+]
