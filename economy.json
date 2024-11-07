@@ -145,7 +145,8 @@
           ]
         ]
       }
-    ]
+    ],
+    "separator": true
   },
   {
     "id": "how-to-earn",
@@ -165,6 +166,7 @@
           "Igualmente, hay múltiples formas de gastar dinero, ya sea comprando items en las tiendas o comerciando con otros jugadores.\n\n"
         ]
       }
-    ]
+    ],
+    "separator": true
   }
 ]
