@@ -93,50 +93,56 @@
           "Descripción"
         ],
         "body": [
-          {
-            "type": "bg_text",
-            "bg_color": "primary-2",
-            "text_color": "secondary",
-            "body": [
-              "&c/bal",
-              " o ",
-              "&c/balance"
-            ]
-          },
-          {
-            "type": "text",
-            "body": [
-              "Muestra el saldo actual del jugador."
-            ]
-          },
-          {
-            "type": "bg_text",
-            "bg_color": "primary-2",
-            "text_color": "secondary",
-            "body": [
-              "&c/baltop"
-            ]
-          },
-          {
-            "type": "text",
-            "body": [
-              "Muestra una lista con los jugadores que tienen más dinero en el servidor."
-            ]
-          },
-          {
-            "type": "bg_text",
-            "bg_color": "primary-2",
-            "text_color": "secondary",
-            "body": [
-              "&c/pay <jugador> <cantidad>"
-            ]
-          },
-          {
-            "type": "text",
-            "body": [
-              "Permite transferir dinero a otro jugador."
-            ]
-          }
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/bal",
+                " o ",
+                "&c/balance"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Muestra el saldo actual del jugador."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/baltop"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Muestra una lista con los jugadores que tienen más dinero en el servidor."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "bg_text",
+              "bg_color": "primary-2",
+              "text_color": "secondary",
+              "body": [
+                "&c/pay <jugador> <cantidad>"
+              ]
+            },
+            {
+              "type": "text",
+              "body": [
+                "Permite transferir dinero a otro jugador."
+              ]
+            }
+          ]
         ]
       }
     ]
