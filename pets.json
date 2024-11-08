@@ -231,7 +231,7 @@
               "bg_color": "primary-2",
               "text_color": "secondary",
               "body": [
-                "&c/pettrade [accept/reject/cancel/<playername>] <price>"
+                "&c&br/pettrade [accept/ reject/ cancel/ <playername>] <price>"
               ]
             },
             {
