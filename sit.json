@@ -1,0 +1,21 @@
+[
+  {
+    "id": "sit",
+    "title": {
+      "text": "¿Realmente hace falta mencionarlo?"
+    },
+    "body": [
+      {
+        "type": "break"
+      },
+      {
+        "type": "paragraph",
+        "body": [
+          "Esto es más simpe de lo que piensas... solo da click derecho en un bloque y sientate en el.",
+          "&b ¡Así de facil! "
+        ]
+      }
+    ],
+    "separator": true
+  }
+]
