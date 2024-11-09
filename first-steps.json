@@ -143,7 +143,7 @@
             "type": "block_link",
             "title": "Servidor de Discord",
             "text": "Unete a Miwi y sé parte de esta comunidad. Donde Miwi no solo es un servidor para jugar minecraft, puedes conocer gente nueva.",
-            "to": ""
+            "to": "https://discord.gg/miwi"
           },
           {
             "type": "block_link",
@@ -155,7 +155,7 @@
             "type": "block_link",
             "title": "Tienda del Servidor",
             "text": "Apoya este proyecto comprando rangos, y demás elementos para tu modalidad favorita.",
-            "to": "/store"
+            "to": "https://store.miwi.world/"
           }
         ]
       }
