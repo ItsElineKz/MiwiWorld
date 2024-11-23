@@ -1,0 +1,270 @@
+{
+    "entries": [
+        {
+          "title": "Primeros Pasos",
+          "to": "/guide",
+          "section": "first-steps",
+          "sub": false
+        },
+        {
+          "title": "Comenzando",
+          "to": "/guide/getting-started",
+          "section": "getting-started",
+          "sub": true
+        },
+        {
+          "title": "Survival",
+          "to": "/guide/survival",
+          "section": "survival",
+          "sub": false
+        },
+        {
+          "title": "Economía",
+          "to": "/guide/economy",
+          "section": "economy",
+          "sub": true
+        },
+        {
+          "title": "Protecciones",
+          "to": "/guide/protections",
+          "section": "protections",
+          "sub": true
+        },
+        {
+          "title": "Tiendas",
+          "to": "/guide/shops",
+          "section": "shops",
+          "sub": true
+        },
+        {
+          "title": "Toma asiento",
+          "to": "/guide/sit",
+          "section": "sit",
+          "sub": true
+        },
+        {
+          "title": "Mascotas",
+          "to": "/guide/pets",
+          "section": "pets",
+          "sub": true
+        },
+        {
+          "title": "Trabajos",
+          "to": "/guide/jobs",
+          "section": "jobs",
+          "sub": true
+        },
+        {
+          "title": "Spawners",
+          "to": "/guide/spawners",
+          "section": "spawns",
+          "sub": true
+        },
+        {
+          "title": "Llaves",
+          "to": "/guide/keys",
+          "section": "keys",
+          "sub": true
+        },
+        {
+          "title": "Otras areas",
+          "to": "/guide/survival-others",
+          "section": "survival-others",
+          "sub": true
+        }
+    ],
+    "footer_options": {
+        "first-steps": {
+          "next": {
+            "url": "/guide/getting-started",
+            "title": "Iniciando"
+          },
+          "previous": {
+            "url": "none",
+            "title": " "
+          }
+        },
+        "getting-started": {
+          "next": {
+            "url": "/guide/survival",
+            "title": "Survival"
+          },
+          "previous": {
+            "url": "/guide",
+            "title": "Primeros Pasos"
+          }
+        },
+        "survival": {
+          "next": {
+            "url": "/guide/economy",
+            "title": "Economía"
+          },
+          "previous": {
+            "url": "/guide/getting-started",
+            "title": "Iniciando"
+          }
+        },
+        "economy": {
+          "next": {
+            "url": "/guide/protections",
+            "title": "Protecciones"
+          },
+          "previous": {
+            "url": "/guide/survival",
+            "title": "Survival"
+          }
+        },
+        "protections": {
+          "next": {
+            "url": "/guide/shops",
+            "title": "Tiendas"
+          },
+          "previous": {
+            "url": "/guide/economy",
+            "title": "Economía"
+          }
+        },
+        "shops": {
+          "next": {
+            "url": "/guide/sit",
+            "title": "Toma asiento"
+          },
+          "previous": {
+            "url": "/guide/protections",
+            "title": "Protecciones"
+          }
+        },
+        "sit": {
+          "next": {
+            "url": "/guide/pets",
+            "title": "Mascotas"
+          },
+          "previous": {
+            "url": "/guide/shops",
+            "title": "Tiendas"
+          }
+        },
+        "pets": {
+          "next": {
+            "url": "/guide/jobs",
+            "title": "Trabajos"
+          },
+          "previous": {
+            "url": "/guide/sit",
+            "title": "Toma asiento"
+          }
+        },
+        "jobs": {
+          "next": {
+            "url": "/guide/others",
+            "title": "Otras áreas"
+          },
+          "previous": {
+            "url": "/guide/pets",
+            "title": "Mascotas"
+          }
+        },
+        "spawners": {
+          "next": {
+            "url": "/guide/keys",
+            "title": "Llaves"
+          },
+          "previous": {
+            "url": "/guide/jobs",
+            "title": "Trabajos"
+          }
+        },
+        "keys": {
+          "next": {
+            "url": "/guide/others",
+            "title": "Otras áreas"
+          },
+          "previous": {
+            "url": "/guide/spawners",
+            "title": "Spawners"
+          }
+        },
+        "survival-others": {
+          "next": {
+            "url": "none",
+            "title": ""
+          },
+          "previous": {
+            "url": "/guide/spawns",
+            "title": "Llaves"
+          }
+        }
+    },
+    "on_this_page": {
+        "first-steps": [
+          { "title": "Introducción", "to": "introduction" },
+          { "title": "¿Que es Miwi?", "to": "what_is" },
+          { "title": "Modalidades", "to": "modalities" },
+          { "title": "Unete a nosotros", "to": "join_us" }
+        ],
+        "getting-started": [
+          { "title": "Iniciando", "to": "getting-started" },
+          { "title": "Al entrar", "to": "upon-entering" },
+          { "title": "Recordatorio", "to": "reminder" }
+        ],
+        "survival": [
+          { "title": "Survival", "to": "survival-home" },
+          { "title": "Elementos del survival", "to": "survival-entries" }
+        ],
+        "economy": [
+          { "title": "Economía en Miwi World", "to": "miwi-world-economy" },
+          { "title": "¿Qué es Vault?", "to": "what-is-vault" },
+          { "title": "¿Qué es EssentialsX?", "to": "what-is-essentialsx" },
+          { "title": "Comandos de Economía", "to": "economy-commands" },
+          { "title": "Cómo Ganar y Gastar Dinero", "to": "how-to-earn" }
+        ],
+        "protections": [
+          { "title": "Sistema de Protección con ProtectionStones", "to": "protection-stones" },
+          { "title": "Tipos de Protecciones", "to": "protections-type" },
+          { "title": "Cómo Funcionan las Protecciones", "to": "how-they-work" },
+          { "title": "Comandos de ProtectionStones", "to": "protection-commands" },
+          { "title": "Cómo Obtener Bloques de Protección", "to": "how-to-get" }
+        ],
+        "shops": [
+          { "title": "Sistema de Tiendas", "to": "shop-system" },
+          { "title": "Cómo Crear una Tienda", "to": "how-to-create" },
+          { "title": "Tipos de Tiendas", "to": "shop-types" },
+          { "title": "Comandos de Tiendas", "to": "shop-commands" },
+          { "title": "Consejos para Gestionar Tiendas", "to": "shop-tips" }
+        ],
+        "sit": [
+          { "title": "¿Realmente hace falta mencionarlo?", "to": "sit" }
+        ],
+        "pets": [
+          { "title": "Sistema de Mascotas", "to": "pets-system" },
+          { "title": "Tipos de Mascotas y Sus Habilidades", "to": "pet-types" },
+          { "title": "Comandos de MyPet", "to": "pet-commands" },
+          { "title": "Entrenamiento y Subida de Nivel", "to": "pet-training" }
+        ],
+        "jobs": [
+          { "title": "Sistema de Trabajos", "to": "jobs-system" },
+          { "title": "Tipos de Trabajos Disponibles", "to": "jobs-types" },
+          { "title": "Comandos de Trabajos", "to": "jobs-commands" },
+          { "title": "Ganar Dinero y Subir de Nivel", "to": "earn-money" },
+          { "title": "Consejos para Progresar", "to": "jobs-tips" }
+        ],
+        "survival-others": [
+          { "title": "Comandos de Essentials", "to": "essentials-commands" },
+          { "title": "Comandos del Chat", "to": "chat-commands" }
+        ]
+    },
+    "titles": {
+        "first-steps": "Primeros Pasos",
+        "getting-started": "Comenzando",
+        "survival": "Survival",
+        "economy": "Economía",
+        "protections": "Protecciones",
+        "shops": "Tiendas",
+        "sit": "Toma asiento",
+        "pets": "Mascotas",
+        "jobs": "Trabajos",
+        "spawners": "Spawners",
+        "keys": "Llaves",
+        "survival-others": "Otras areas en Survival"
+    }
+}
