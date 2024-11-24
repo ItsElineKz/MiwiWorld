@@ -1,10 +1,10 @@
-## Sistema de Tiendas {#shop}
+## Sistema de Tiendas
 
 Miwi World permite a los jugadores crear tiendas personales utilizando cofres. Con este sistema, los jugadores pueden vender sus ítems a otros o comprar de las tiendas de otros jugadores, creando una economía activa entre usuarios. Cada tienda muestra el nombre del ítem, el precio, y la cantidad disponible, lo que facilita las transacciones entre jugadores.
 
 ---
 
-## Cómo Crear una Tienda {#shop-create}
+## Cómo Crear una Tienda
 
 Para crear una tienda, sigue estos pasos:
 
@@ -15,7 +15,7 @@ Para crear una tienda, sigue estos pasos:
 
 ---
 
-## Tipos de Tiendas {#shop-types}
+## Tipos de Tiendas
 
 En Miwi World se pueden crear dos tipos de tiendas:
 
@@ -24,7 +24,7 @@ En Miwi World se pueden crear dos tipos de tiendas:
 
 ---
 
-## Comandos {#shop-commands}
+## Comandos
 
 Estos son los comandos básicos que los jugadores pueden utilizar para gestionar sus tiendas. Cada comando incluye una breve descripción de su función.
 
@@ -38,7 +38,7 @@ Estos son los comandos básicos que los jugadores pueden utilizar para gestionar
 
 ---
 
-## Explicación de los Comandos {#shop-explication}
+## Explicación de los Comandos
 
 -   **Crear una tienda**: Usa `/qs create <precio>` para abrir una tienda de venta. Ten el ítem en la mano y especifica el precio por unidad.
 -   **Cambiar a tienda de compra**: Con `/qs buy`, puedes cambiar tu tienda para que otros jugadores vendan el ítem que deseas comprar.
@@ -48,7 +48,7 @@ Estos son los comandos básicos que los jugadores pueden utilizar para gestionar
 
 ---
 
-## Consejos para Gestionar Tiendas {#shop-tips}
+## Consejos para Gestionar Tiendas
 
 -   **Mantén tus tiendas bien abastecidas**: Los jugadores siempre buscan tiendas que tengan suficientes ítems en stock, especialmente si estás vendiendo ítems valiosos o de gran demanda.
 -   **Ajusta precios según la demanda**: Observa los precios en el mercado y ajusta el tuyo para mantener la competitividad.

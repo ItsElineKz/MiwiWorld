@@ -1,4 +1,4 @@
-## Comandos de Essentials {#so-essentials}
+## Comandos de Essentials 
 
 Lista de comandos de **Essentials** que puedes utilizar:
 
@@ -22,15 +22,15 @@ Lista de comandos de **Essentials** que puedes utilizar:
 
 ---
 
-## Comandos del Chat {#so-chat}
+## Comandos del Chat 
 
 Lista de comandos que puedes usar para interactuar en el chat.
 
-| Comando                    | Descripción                                                                          |
-|----------------------------|--------------------------------------------------------------------------------------|
-| `/msg <jugador> <mensaje>` | Manda un mensaje privado al jugador especificado.                                    |
-| `/ch <channel>`            | Cambia entre canales. Ve la lista a continuación.                                    |
-| `/chlist`                  | Mustra la lista de canales, así como si es necesario algún permiso para entrar a el. |
+| Comando                    | Descripción                                                                           |
+|----------------------------|---------------------------------------------------------------------------------------|
+| `/msg <jugador> <mensaje>` | Manda un mensaje privado al jugador especificado.                                     |
+| `/ch <channel>`            | Cambia entre canales. Ve la lista a continuación.                                     |
+| `/chlist`                  | Muestra la lista de canales, así como si es necesario algún permiso para entrar a el. |
 
 Lista de canales disponibles:
 - **g** `[Global]`: Canal principal.

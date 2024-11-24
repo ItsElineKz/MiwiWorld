@@ -1,4 +1,4 @@
-## Survival {#survival}
+## Survival
 
 Bienvenido a la modalidad **Survival** de Miwi World.
 Aquí podrás encontrar los temas detallados relacionados con esta modalidad.
@@ -14,7 +14,7 @@ los cuales podrán resolver tus dudas.
 
 ---
 
-## Elementos del Survival {#survival-elements}
+## Elementos del Survival
 
 - [**Economía**](/guide/economy): Explora la economía del survival, aprende a ver tu balance y pagar a otros jugadores.
 - [**Protecciones**](/guide/protections): Aprende a proteger tus bases y áreas más importantes para evitar el grifeo de estas mismas.

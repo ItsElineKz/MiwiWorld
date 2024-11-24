@@ -1,11 +1,10 @@
-## Sistema de Protección {#ps}
+## Sistema de Protección
 
 En Miwi World, las **protecciones** permite a los jugadores proteger áreas específicas del mundo para evitar que otros modifiquen, rompan o construyan en sus terrenos. Cada tipo de protección ofrece un área de protección de distinto tamaño, permitiendo a los jugadores elegir la que mejor se adapte a sus necesidades.
 
 --------
 
-## Tipos de Protecciones {#ps-types}
-
+## Tipos de Protecciones
 Existen varios niveles de protección en Miwi World, cada uno con un tamaño específico. Los jugadores pueden adquirir estos bloques de protección y colocarlos en sus terrenos para asegurar sus construcciones y recursos. Aquí están los niveles disponibles:
 
 -   **Glass Protection:** Cubre un área de 15x15 bloques.
@@ -15,13 +14,13 @@ Existen varios niveles de protección en Miwi World, cada uno con un tamaño esp
 
 ----
 
-## Cómo Funcionan las Protecciones {#ps-work}
+## Cómo Funcionan las Protecciones
 
 Cuando un jugador coloca un bloque de protección, automáticamente se genera una zona protegida alrededor del bloque con el tamaño correspondiente. Esta zona impide que otros jugadores destruyan, construyan o interactúen dentro de ella, asegurando así la privacidad y seguridad del terreno protegido.
 
 ----------
 
-## Comandos {#ps-commands}
+## Comandos
 
 Aquí tienes algunos comandos esenciales que los jugadores pueden utilizar para gestionar sus protecciones. Cada comando incluye una breve descripción de su función.
 
@@ -40,7 +39,7 @@ Aquí tienes algunos comandos esenciales que los jugadores pueden utilizar para 
 
 ----------
 
-## Cómo Obtener Bloques de Protección {#ps-how-to-get}
+## Cómo Obtener Bloques de Protección
 
 En Miwi World, los bloques de protección pueden comprarse o ganarse de diversas maneras (según las reglas y eventos del servidor). Los bloques de protección disponibles corresponden a los niveles mencionados (Glass, Explorer, Sentinel y Master), cada uno con un área de protección específica.
 

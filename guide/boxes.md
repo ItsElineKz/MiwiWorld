@@ -1,10 +1,10 @@
-## Cajas de Recompensas {#boxes}
+## Cajas de Recompensas
 
 En Miwi World, las **cajas de recompensas** ofrecen emocionantes premios que puedes obtener con sus llaves correspondientes. Aquí te explicamos cómo funcionan, dónde encontrarlas, y las normas asociadas.
 
 ---
 
-## Tipos de Cajas y sus Recompensas {#boxes-types}
+## Tipos de Cajas y sus Recompensas
 
 Las cajas están diseñadas con una escala de recompensas que mejora conforme avanzas a cajas más exclusivas:
 
@@ -24,7 +24,7 @@ Las cajas están diseñadas con una escala de recompensas que mejora conforme av
 
 ---
 
-## Obtención de Llaves {#getting-keys}
+## Obtención de Llaves
 
 -   Cada caja tiene una llave específica que debes adquirir para poder abrirla.
 -   Las llaves se pueden obtener a través de:
@@ -34,7 +34,7 @@ Las cajas están diseñadas con una escala de recompensas que mejora conforme av
 
 ---
 
-## Cómo Llegar a las Cajas {#how-to-go-boxes}
+## Cómo Llegar a las Cajas
 
 Tienes dos formas de acceder al área de las cajas desde el spawn del servidor:
 
@@ -49,7 +49,7 @@ Una vez en el área, encontrarás las cajas claramente identificadas. Solo neces
 
 ---
 
-## Normas Importantes {#rules-boxes}
+## Normas Importantes
 
 1. **Sistema Basado en Probabilidades**:
 
@@ -66,7 +66,7 @@ Una vez en el área, encontrarás las cajas claramente identificadas. Solo neces
 
 ---
 
-## **Recomendaciones Generales** {#general-recommendations-boxes}
+## **Recomendaciones Generales**
 
 -   **Planea tu inventario:** Antes de abrir cajas, asegúrate de tener suficiente espacio libre para recibir las recompensas.
 -   **Guarda tus llaves:** Evita llevarlas contigo en zonas de riesgo donde puedas perderlas.
