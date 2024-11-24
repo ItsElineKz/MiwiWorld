@@ -1,9 +1,9 @@
-## Iniciando
+## Iniciando {#gs}
 
 Para comenzar, puedes entrar desde **Java** o **Bedrock**, en Java puedes entrar
 a partir de la version **1.9**, mientras que en Bedrock necesitas la ultíma versión.
 
-## Al Entrar
+## Al Entrar {#gs-entering}
 
 Cuando entres por primera vez a la network se te pedirá hacer: `/register <contraseña> <contraseña>` 
 
@@ -22,7 +22,7 @@ Solo has clic sobre el NPC para que te lleve al servidor de la modalidad. No imp
 
 ---
 
-## Recordatorio
+## Recordatorio {#gs-reminder}
 
 Por ultímo recuerda la **IP** de la network es: **play.miwi.world**". Esperamos verte dentro, recuerda que es un proyecto pequeño por lo que puede haber errores.
 

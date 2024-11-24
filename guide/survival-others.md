@@ -1,4 +1,4 @@
-## Comandos de Essentials
+## Comandos de Essentials {#so-essentials}
 
 Lista de comandos de **Essentials** que puedes utilizar:
 
@@ -22,7 +22,7 @@ Lista de comandos de **Essentials** que puedes utilizar:
 
 ---
 
-## Comandos del Chat
+## Comandos del Chat {#so-chat}
 
 Lista de comandos que puedes usar para interactuar en el chat.
 

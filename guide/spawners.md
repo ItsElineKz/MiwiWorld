@@ -1,10 +1,10 @@
-## Guía de Uso para Spawners en Miwi World
+## Guía de Uso para Spawners en Miwi World {#spawners}
 
 Los **spawners** son una herramienta clave para los jugadores en Miwi World, pero su uso está regulado para garantizar el equilibrio y la experiencia del juego. A continuación, te presentamos las normas y procedimientos relacionados con los spawners:
 
 ----------
 
-## Normas para Granjas de Spawners
+## Normas para Granjas de Spawners {#spawners-rules}
 
 -   **Spawners de mobs no animales (hostiles o neutrales):**
     -   Solo se permite una granja de spawner por chunk.
@@ -15,7 +15,7 @@ Los **spawners** son una herramienta clave para los jugadores en Miwi World, per
 
 ----------
 
-## Prohibición de Granjas AFK
+## Prohibición de Granjas AFK {#spawners-afk}
 
 -   **No se permite el uso de granjas AFK.** Esto incluye cualquier sistema diseñado para acumular recursos automáticamente mientras el jugador está ausente.
 -   Si se detecta una granja AFK:
@@ -24,7 +24,7 @@ Los **spawners** son una herramienta clave para los jugadores en Miwi World, per
 
 ----------
 
-## Proceso de Entrega de Spawners
+## Proceso de Entrega de Spawners {#spawners-delivery}
 
 -   Después de realizar una compra en la tienda, los spawners se entregarán automáticamente dentro del juego en un plazo de **hasta 5 minutos**.
 
@@ -39,7 +39,7 @@ Los **spawners** son una herramienta clave para los jugadores en Miwi World, per
 
 ----------
 
-## Precaución al Realizar Compras
+## Precaución al Realizar Compras {#spawners-buys}
 
 -   Antes de completar tu compra en la tienda, verifica que tu **nombre de usuario** esté correctamente escrito:
     -   **Jugadores de Bedrock Edition:** Añadir el prefijo `"BP_"` delante del nombre de usuario.

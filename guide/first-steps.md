@@ -1,10 +1,10 @@
-## Introducción
+## Introducción {#fs}
 
 Te damos la bienvenida a la network **Miwi World**, aquí es donde comienza tu historia junto a nosotros.
 
 ---
 
-## Qué es Miwi World
+## Qué es Miwi World {#fs-miwi-world}
 
 Miwi es un servidor de **Discord**, así como un proyecto para una network de 
 **Minecraft**. En la cual podrás pasar un buen rato jugando, ya sea junto a tus amigos o junto a los demás miembros del servidor.
@@ -16,7 +16,7 @@ Esperamos que este proyecto tenga tu apoyo, para poder seguir creciendo y traer 
 
 ---
 
-## Modalidades
+## Modalidades {#fs-modalities}
 
 Estas son las principales modalidades con las que cuenta el servidor:
 
@@ -26,21 +26,21 @@ Estas son las principales modalidades con las que cuenta el servidor:
 
 --- 
 
-## Únete a nuestra comunidad
+## Únete a nuestra comunidad {#fs-join-us}
 
 Para estar al tanto de los cambios y actualizaciones del servidor te recomendamos unirte a nuestra comunidad. En esta página estarán todos los cambios agregados al servidor, así como comandos y/o funcionalidades agregadas.
 
 Únete a nuestra comunidad en **Discord**, el lugar donde nació este proyecto.
 
-### Servidor de Discord
+### Servidor de Discord {#fs-discord}
 Únete a Miwi y se parte de esta comunidad. Donde Miwi no solo es un servidor para jugar minecraft, puedes conocer gente nueva.
 [Unirme a **Discord**](https://discord.gg/miwi).
 
-### Novedades
+### Novedades {#fs-news}
 Dale un vistazo a la página donde estarán todas las novedades del servidor.
 [Ir a **_Novedades_**](/news).
 
-### Tienda del Servidor
+### Tienda del Servidor {#fs-store}
 Apoya este proyecto comprando rangos, y demás elementos para tu modalidad favorita.
 [Visitar la **Tienda**](https://store.miwi.world/)
 
