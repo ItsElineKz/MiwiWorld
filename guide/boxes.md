@@ -1,0 +1,79 @@
+## Cajas de Recompensas
+
+En Miwi World, las **cajas de recompensas** ofrecen emocionantes premios que puedes obtener con sus llaves correspondientes. Aquí te explicamos cómo funcionan, dónde encontrarlas, y las normas asociadas.
+
+---
+
+## Tipos de Cajas y sus Recompensas
+
+Las cajas están diseñadas con una escala de recompensas que mejora conforme avanzas a cajas más exclusivas:
+
+1.  **Caja Miwi:**
+
+    -   Es la caja más básica y accesible.
+    -   Contiene recompensas útiles para jugadores nuevos o en progreso inicial.
+2.  **Caja Explorer:**
+
+    -   Nivel intermedio, ideal para jugadores que buscan herramientas, recursos o beneficios avanzados.
+3.  **Caja Sentinel:**
+
+    -   Ofrece mejores recompensas que la Explorer, incluyendo ítems valiosos y equipamiento exclusivo.
+4.  **Caja Master:**
+
+    -   La caja más exclusiva, con recompensas de alto valor y rareza, pensada para los jugadores más experimentados.
+
+---
+
+## Obtención de Llaves
+
+-   Cada caja tiene una llave específica que debes adquirir para poder abrirla.
+-   Las llaves se pueden obtener a través de:
+    -   **Eventos del servidor.**
+    -   **Compras en la tienda de Miwi World.**
+    -   **Recompensas por votaciones u otras actividades.** (proximamente)
+
+---
+
+## Cómo Llegar a las Cajas
+
+Tienes dos formas de acceder al área de las cajas desde el spawn del servidor:
+
+1.  **Camino a la izquierda:**
+
+    -   Desde el punto de inicio, sigue el camino a la izquierda para encontrar la zona de cajas.
+2.  **Comando directo:**
+
+    -   Usa el comando `**/warp cajas**` para transportarte directamente al lugar.
+
+Una vez en el área, encontrarás las cajas claramente identificadas. Solo necesitas usar la llave correspondiente en la caja que desees abrir.
+
+---
+
+## Normas Importantes
+
+1. **Sistema Basado en Probabilidades**:
+
+    -  Las recompensas de las cajas se obtienen en función de un sistema aleatorio de probabilidades.
+    -  **No se garantiza un ítem específico** al usar una llave, y es responsabilidad del jugador aceptar esta condición antes de participar.
+2. **Pérdida de Llaves**:
+
+    -   Las llaves son ítems valiosos y no se reembolsarán bajo ninguna circunstancia en caso de pérdida.
+    -   Es **tu responsabilidad** asegurarte de guardar y usar las llaves con cuidado.
+3. **Responsabilidad del Usuario**:
+
+    -   Una vez que recibas las recompensas de una caja, estos ítems son completamente tuyos.
+    -   Miwi World **no realizará devoluciones ni reposiciones** de las recompensas en caso de pérdida o destrucción.
+
+---
+
+## **Recomendaciones Generales**
+
+-   **Planea tu inventario:** Antes de abrir cajas, asegúrate de tener suficiente espacio libre para recibir las recompensas.
+-   **Guarda tus llaves:** Evita llevarlas contigo en zonas de riesgo donde puedas perderlas.
+-   **Participa en eventos:** Muchas veces, los eventos del servidor son una excelente manera de ganar llaves de cajas sin necesidad de comprar.
+
+---
+
+Con esta guía, estarás listo para disfrutar al máximo del sistema de cajas de recompensas en Miwi World. ¡Buena suerte, y que obtengas las mejores recompensas! 🎉
+
+---
